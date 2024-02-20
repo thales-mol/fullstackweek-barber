@@ -24,7 +24,7 @@ model Barbershop {
 
   address String
 
-  ImageURL String
+  ImageUrl String
 
   services Service[]
 
